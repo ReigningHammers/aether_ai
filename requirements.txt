@@ -1,0 +1,9 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+sqlalchemy>=2.0.0
+alembic
+pydantic-settings
+psycopg2-binary
+redis>=5.0
+python-dotenv
+httpx
